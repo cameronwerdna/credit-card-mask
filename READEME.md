@@ -1,0 +1,1 @@
+solution for codewars problem 'Credit Card Mask'. takes a string and changes every character to '#', except for the last four.
